@@ -1,4 +1,4 @@
-#include "servo.h"
+#include "servoctr.h"
 
 #define READ_TEST 0             //Read Servo Data Test
 #define WRITE_TEST 0            //Write Servo Data Test
